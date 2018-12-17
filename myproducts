@@ -19,17 +19,21 @@
 		"c_BIN": null,
 
 		"prD_STS": "A",
-		"trF_FR": null,
-		"trF_TO": null,
-		"trF_3RD_FR": null,
-		"trF_3RD_TO": null,
-		"paY_FR": null,
-		"chQ_FR": null,
-		"poL_REN_FR": null,
-		"reQ_ACC_STMT_FR": null,
-		"fdtD_FR": null,
-		"approvaL_STS": null,
-		"chG_ID": null
+		"trF_FR": "yyyyyy",
+		"trF_TO": "yyyyyy",
+		"trF_3RD_FR": "yyyyyy",
+		"trF_3RD_TO": "yyyyyy",
+		"paY_FR": "yyyyyy",
+		"chQ_FR": "yyyyyy",
+		"poL_REN_FR": "yyyyyy",
+		"reQ_ACC_STMT_FR": "yyyyyy",
+		"fdtD_FR": "yyyyyy",
+		"approvaL_STS": "yyyyyy",
+		"chG_ID": "yyyyyy"
+
+
+
+
 
 
 
